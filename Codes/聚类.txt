@@ -1,0 +1,11 @@
+聚类多种方法
+
+层状聚类：
+
+Z = linkage(X,'ward');
+dendrogram(Z)
+
+k-means算法；
+[idx,C]=kmeans(X,3)
+建议直接用spss
+

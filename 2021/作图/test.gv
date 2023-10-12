@@ -1,0 +1,3 @@
+// Gragh2Print
+digraph {
+	graph [rankdir=LR]

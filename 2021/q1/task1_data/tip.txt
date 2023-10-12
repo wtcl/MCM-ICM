@@ -1,0 +1,9 @@
+1. point_data_fullnet: 总网络的点的id和label
+2. side_data_fullnet: 总网络的边的起始和终止(source,target)
+3. point_data_sub1net: 总网络的点的id和label
+4. side_data_sub1net: 总网络的边的起始和终止(source,target)
+5. point_data_sub2net: 总网络的点的id和label
+6. side_data_sub2net: 总网络的边的起始和终止(source,target)
+7. Ddata.csv：主网络的各点重要性
+8. R&B_Ddata.csv：R&B网络的各点重要性
+9. after_influence_before_Ddata.csv：后辈影响前辈网络的各点重要性

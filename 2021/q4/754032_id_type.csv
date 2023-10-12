@@ -1,0 +1,6 @@
+id,type_a,type_b,type_c
+38936,speechiness,instrumentalness,key
+69153,liveness,acousticness,tempo
+330575,tempo,energy,instrumentalness
+543055,energy,acousticness,danceability
+560208,key,mode,danceability

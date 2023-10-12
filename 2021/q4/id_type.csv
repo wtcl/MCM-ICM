@@ -1,0 +1,9 @@
+id,type_a,type_b,type_c
+38936,liveness,mode,speechiness
+69153,mode,acousticness,liveness
+70715,speechiness,tempo,liveness
+174822,key,valence,mode
+233066,danceability,instrumentalness,mode
+294923,liveness,acousticness,energy
+583959,key,liveness,acousticness
+806247,tempo,liveness,danceability

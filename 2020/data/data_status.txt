@@ -1,0 +1,56 @@
+hair_dryer:
+1. marketplace: 全为US
+2. customer_id: 有重复值
+3. review_id: 没重复值
+4. product_id：有重复值
+5. product_parent：有重复值
+6. product_title：有重复值
+7. product_category：均为Beauty
+8. star_rating：整数（1-5）
+9. helpful_votes: 整数0-499，较小范围0-100内基本上为连续，大于100不连续
+10. total_votes：整数0-575，分布规律同上
+11. vine：均为Y或N
+12. verified_purchase: 均为Y或N
+13. review_headline：字符串，960，9889行有空值，已删除
+14. review_body: 字符串，含重复值
+15. review_date：日期，2347，3049，10449，11264，11319，11346行有空值，已删除行
+原11470条数据
+现11462条数据
+
+microwave:
+1. marketplace: 全为US
+2. customer_id: 有重复值，4个37142894用户
+3. review_id: 没重复值
+4. product_id：有重复值
+5. product_parent：有重复值
+6. product_title：有重复值
+7. product_category：均为Major Appliances
+8. star_rating：整数（1-5）
+9. helpful_votes: 整数0-814，较小范围0-100内基本上为连续，大于100不连续
+10. total_votes：整数0-848，分布规律同上
+11. vine：均为Y或N
+12. verified_purchase: 均为Y或N
+13. review_headline：字符串，有重复
+14. review_body: 字符串，含重复值
+15. review_date：日期，重复值
+原1616条数据
+现1616条数据
+
+pacifier:
+1. marketplace: 全为US
+2. customer_id: 有重复值
+3. review_id: 没重复值
+4. product_id：有重复值
+5. product_parent：有重复值
+6. product_title：有重复值
+7. product_category：均为baby，但是存在因编码错误导致的问题数据，均删除
+8. star_rating：整数（1-5）
+9. helpful_votes: 整数0-283，较小范围0-100内基本上为连续，大于100不连续
+10. total_votes：整数0-306，分布规律同上
+11. vine：均为Y或N
+12. verified_purchase: 均为Y或N
+13. review_headline：字符串，有重复，含冗余数据，均删除
+14. review_body: 字符串，含重复值，含冗余数据，均删除
+15. review_date：日期，重复值，含冗余数据，均删除
+原18939条数据
+现18860条数据

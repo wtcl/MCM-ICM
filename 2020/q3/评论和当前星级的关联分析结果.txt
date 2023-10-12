@@ -1,0 +1,29 @@
+xy_data_246038397数据正态性检验： https://www.spsspro.com/s/80e04bacf0774410ae3f3dc9cd495c65
+结果为不符合正态性，具体结果如上链接。
+因为不满足正态分布，故采用spearman分析。
+https://www.spsspro.com/s/aa2cb74050764f49a3760e2a720af93c
+分析结果如上链接。
+
+xy_data_423421857：
+ https://www.spsspro.com/s/69765a1158304059a8a4fe8b04f893b6
+结果为不符合正态性，具体结果如上链接。
+因为不满足正态分布，故采用spearman分析。
+https://www.spsspro.com/s/cef690b94bde4348a160046cc5c2fe9a
+ 分析结果如上链接。
+
+
+ xy_data_732252283：
+https://www.spsspro.com/s/d936d330c9794bb38123d30b38e14fc8
+ 结果为不符合正态性，具体结果如上链接。
+因为不满足正态分布，故采用spearman分析
+https://www.spsspro.com/s/4579f0f499384eeb82a37c4cc2565bf0
+ 分析结果如上链接。
+
+246038397.csv：
+https://www.spsspro.com/s/8068bc9452534ff092a04b5139b3f60b
+
+423421857：
+https://www.spsspro.com/s/15aca1024eee44419748868a38cbae3f
+
+732252283： 
+https://www.spsspro.com/s/f647ffc717d448bf84778b30ebff24bf

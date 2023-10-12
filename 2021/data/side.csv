@@ -1,0 +1,228 @@
+id,source,target
+0,Reggae,Reggae
+1,Reggae,International
+2,Reggae,Electronic
+3,Reggae,Pop/Rock
+4,Reggae,Vocal
+5,Reggae,R&B;
+6,Reggae,Latin
+7,Comedy/Spoken,Reggae
+8,Comedy/Spoken,Folk
+9,Comedy/Spoken,Comedy/Spoken
+10,Comedy/Spoken,Electronic
+11,Comedy/Spoken,Stage & Screen
+12,Comedy/Spoken,Children's
+13,Comedy/Spoken,Pop/Rock
+14,Comedy/Spoken,Vocal
+15,Comedy/Spoken,R&B;
+16,Comedy/Spoken,Country
+17,Easy Listening,International
+18,Easy Listening,Jazz
+19,Easy Listening,Easy Listening
+20,Easy Listening,Stage & Screen
+21,Easy Listening,New Age
+22,Easy Listening,Pop/Rock
+23,Easy Listening,Avant-Garde
+24,Easy Listening,Vocal
+25,Easy Listening,Latin
+26,Pop/Rock,Reggae
+27,Pop/Rock,Comedy/Spoken
+28,Pop/Rock,Easy Listening
+29,Pop/Rock,Pop/Rock
+30,Pop/Rock,Blues
+31,Pop/Rock,Religious
+32,Pop/Rock,New Age
+33,Pop/Rock,Unknown
+34,Pop/Rock,Avant-Garde
+35,Pop/Rock,Vocal
+36,Pop/Rock,Classical
+37,Pop/Rock,Jazz
+38,Pop/Rock,Latin
+39,Pop/Rock,International
+40,Pop/Rock,Folk
+41,Pop/Rock,Electronic
+42,Pop/Rock,Stage & Screen
+43,Pop/Rock,R&B;
+44,Pop/Rock,Country
+45,Blues,International
+46,Blues,Folk
+47,Blues,Reggae
+48,Blues,Jazz
+49,Blues,Electronic
+50,Blues,New Age
+51,Blues,Pop/Rock
+52,Blues,Blues
+53,Blues,Vocal
+54,Blues,Religious
+55,Blues,R&B;
+56,Blues,Latin
+57,Blues,Country
+58,Religious,Folk
+59,Religious,Pop/Rock
+60,Religious,Vocal
+61,Religious,Religious
+62,Religious,R&B;
+63,Religious,Country
+64,New Age,International
+65,New Age,Classical
+66,New Age,Folk
+67,New Age,Jazz
+68,New Age,Electronic
+69,New Age,Stage & Screen
+70,New Age,New Age
+71,New Age,Easy Listening
+72,New Age,Pop/Rock
+73,New Age,Vocal
+74,New Age,Latin
+75,Avant-Garde,Classical
+76,Avant-Garde,Electronic
+77,Avant-Garde,Stage & Screen
+78,Avant-Garde,New Age
+79,Avant-Garde,Pop/Rock
+80,Avant-Garde,Avant-Garde
+81,Unknown,International
+82,Unknown,Pop/Rock
+83,Vocal,International
+84,Vocal,Folk
+85,Vocal,Comedy/Spoken
+86,Vocal,Classical
+87,Vocal,Jazz
+88,Vocal,Reggae
+89,Vocal,Easy Listening
+90,Vocal,Electronic
+91,Vocal,Stage & Screen
+92,Vocal,New Age
+93,Vocal,Children's
+94,Vocal,Pop/Rock
+95,Vocal,Blues
+96,Vocal,Vocal
+97,Vocal,Religious
+98,Vocal,R&B;
+99,Vocal,Latin
+100,Vocal,Country
+101,Classical,International
+102,Classical,Classical
+103,Classical,Jazz
+104,Classical,Electronic
+105,Classical,Stage & Screen
+106,Classical,New Age
+107,Classical,Easy Listening
+108,Classical,Pop/Rock
+109,Classical,Avant-Garde
+110,Classical,Vocal
+111,Classical,Latin
+112,Classical,Country
+113,Jazz,Reggae
+114,Jazz,Comedy/Spoken
+115,Jazz,Easy Listening
+116,Jazz,Pop/Rock
+117,Jazz,Blues
+118,Jazz,Religious
+119,Jazz,New Age
+120,Jazz,Avant-Garde
+121,Jazz,Vocal
+122,Jazz,Classical
+123,Jazz,Jazz
+124,Jazz,Latin
+125,Jazz,International
+126,Jazz,Folk
+127,Jazz,Electronic
+128,Jazz,Stage & Screen
+129,Jazz,Children's
+130,Jazz,R&B;
+131,Jazz,Country
+132,Latin,International
+133,Latin,Classical
+134,Latin,Jazz
+135,Latin,Easy Listening
+136,Latin,Electronic
+137,Latin,New Age
+138,Latin,Stage & Screen
+139,Latin,Pop/Rock
+140,Latin,Vocal
+141,Latin,Religious
+142,Latin,R&B;
+143,Latin,Latin
+144,Latin,Country
+145,International,International
+146,International,Folk
+147,International,Classical
+148,International,Reggae
+149,International,Jazz
+150,International,Electronic
+151,International,Easy Listening
+152,International,New Age
+153,International,Pop/Rock
+154,International,Avant-Garde
+155,International,Blues
+156,International,Unknown
+157,International,Vocal
+158,International,Religious
+159,International,R&B;
+160,International,Latin
+161,Folk,International
+162,Folk,Folk
+163,Folk,Comedy/Spoken
+164,Folk,Classical
+165,Folk,Jazz
+166,Folk,Electronic
+167,Folk,New Age
+168,Folk,Pop/Rock
+169,Folk,Blues
+170,Folk,Vocal
+171,Folk,Religious
+172,Folk,R&B;
+173,Folk,Latin
+174,Folk,Country
+175,Electronic,Classical
+176,Electronic,Electronic
+177,Electronic,Stage & Screen
+178,Electronic,New Age
+179,Electronic,Pop/Rock
+180,Electronic,R&B;
+181,Electronic,Latin
+182,Stage & Screen,International
+183,Stage & Screen,Classical
+184,Stage & Screen,Folk
+185,Stage & Screen,Jazz
+186,Stage & Screen,Electronic
+187,Stage & Screen,Stage & Screen
+188,Stage & Screen,Easy Listening
+189,Stage & Screen,Children's
+190,Stage & Screen,Pop/Rock
+191,Stage & Screen,Avant-Garde
+192,Stage & Screen,Vocal
+193,Stage & Screen,Country
+194,Children's,Pop/Rock
+195,Children's,Children's
+196,R&B;,International
+197,R&B;,Reggae
+198,R&B;,Comedy/Spoken
+199,R&B;,Classical
+200,R&B;,Jazz
+201,R&B;,Folk
+202,R&B;,Electronic
+203,R&B;,New Age
+204,R&B;,Pop/Rock
+205,R&B;,Blues
+206,R&B;,Avant-Garde
+207,R&B;,Vocal
+208,R&B;,Religious
+209,R&B;,R&B;
+210,R&B;,Latin
+211,R&B;,Country
+212,Country,International
+213,Country,Folk
+214,Country,Reggae
+215,Country,Comedy/Spoken
+216,Country,Jazz
+217,Country,Electronic
+218,Country,New Age
+219,Country,Pop/Rock
+220,Country,Unknown
+221,Country,Blues
+222,Country,Vocal
+223,Country,Religious
+224,Country,R&B;
+225,Country,Latin
+226,Country,Country

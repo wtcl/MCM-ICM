@@ -1,0 +1,13 @@
+
+knn算法---最邻近算法
+当需要使用分类算法，且数据比较大的时候就可以尝试使用KNN算法进行分类
+
+MD1=fitcknn(x,y,'NumNeighbors',5,'Standardize',1)
+其中5表示为k，就是根据附近k个样本判断
+x为特征值矩阵，y为分类结果
+
+pre=MD1.predict(A)
+A为新样本，pre为结果
+
+los=MD1.resubloss
+los为针对原始数据的错误率
